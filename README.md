@@ -1,5 +1,7 @@
 Complete backend  with noSQL 
 
+# All routes perform CURD 
+
 #This project is LIVE with Mongoose  [Click here](https://nosql-api-ecom.herokuapp.com/).
 # Routes:
 # users
@@ -15,5 +17,5 @@ Complete backend  with noSQL
 # products
 # orders
 
-##All routes perform CURD 
+
 
